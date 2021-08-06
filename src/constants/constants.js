@@ -5,7 +5,7 @@ export const projects = [
     image: '/images/2.png',
     tags: ['HTML', 'Css', 'Javascript'],
     source: 'https://ashuran2201.github.io/DadJokes/',
-    visit: 'https://ashuran2201.github.io/DadJokes/',
+    visit: 'https://github.com/ashuran2201/DadJokes',
     id: 0,
   },
 
@@ -15,7 +15,7 @@ export const projects = [
       image: '/images/3.png',
       tags: ['React'],
     source: 'https://react-personal-site-taupe.vercel.app/',
-    visit: 'https://react-personal-site-taupe.vercel.app/',
+    visit: 'https://github.com/ashuran2201/React-Personal-Site',
     id: 1,
   },
 
@@ -25,7 +25,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['HTML', 'Css', 'Javascript'],
     source: 'https://ashuran2201.github.io/split-landing-page/',
-    visit: 'https://ashuran2201.github.io/split-landing-page/',
+    visit: 'https://github.com/ashuran2201/split-landing-page',
     id: 2,
   },
 
@@ -35,7 +35,7 @@ export const projects = [
     image: '/images/4.png',
     tags: ['React', 'Heroku'],
     source: 'https://loona-trivia.vercel.app/',
-    visit: 'https://loona-trivia.vercel.app/',
+    visit: 'https://github.com/ashuran2201/Loona-Trivia',
     id: 3,
   },
 ];
