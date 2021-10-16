@@ -31,7 +31,7 @@ export const projects = [
 
   {
     title: 'Orbital Moon',
-    description: "A trivia website to test your knowledge of a K-pop Girl Group LOONA, STILL IN PROGRESS",
+    description: "A trivia website to test your knowledge of a K-pop Girl Group LOONA, WIP",
     image: '/images/4.png',
     tags: ['React', 'Heroku'],
     source: 'https://loona-trivia.vercel.app/',
